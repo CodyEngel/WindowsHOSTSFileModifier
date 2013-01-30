@@ -1,0 +1,9 @@
+Windows HOSTS File Modifier v1.0
+
+v1.0.1 [1/30/2013]
+- Created the application.
+- Added functionality:
+	+ Backup hosts file.
+	+ Restore hosts file.
+	+ Block known malware infected websites.
+	+ Block known ZeuS infected websites.
